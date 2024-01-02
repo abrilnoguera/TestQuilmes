@@ -34,8 +34,8 @@ El entregable debe incluir:
 -	Notebook en Python con la resolución
 -	Tabla con los resultados a nivel producto con los nuevos objetivos calculados (csv o Excel)
 -	Un informe para el área de ventas que incluya:
-o	Evidencia que con los nuevos objetivos se cumplen las restricciones
-o	Análisis de cuáles son los productos que quedan con mayor variación vs los resultados originales del algoritmo
-o	Cantidad de recomendaciones por marca
+-  - Evidencia que con los nuevos objetivos se cumplen las restricciones
+-  - Análisis de cuáles son los productos que quedan con mayor variación vs los resultados originales del algoritmo
+-  - Cantidad de recomendaciones por marca
 -	Aclaración: en caso de que algún requerimiento sea ambiguo, tomar una asunción y aclararla en el entregable
 
