@@ -1,6 +1,7 @@
 # Ejercicio – Data Scientist – Quilmes
 
 El equipo de Data Science de Quilmes hizo un algoritmo de recomendación que genera para cada cliente, una lista de productos que debería comprar.
+
 Ejemplo: Recomendaciones para un cliente
 
 ![Recomendaciones para un cliente](Imagenes/image.png)
@@ -12,7 +13,7 @@ Ejemplo: Cantidad de clientes con recomendación por producto
 ![Cantidad de clientes con recomendación por producto](Imagenes/image-1.png)
 
 Cada producto tiene atributos como segmento de precio (por ej. Premium), marca, etc, que se encuentran detallados en la tabla products.
- 
+
 El equipo de ventas revisó estos resultados y tiene algunos comentarios.
 -	Hay productos que tienen demasiadas recomendaciones, y otros que tienen muy pocas. Como lineamiento, ningún producto debería tener más de 200% recomendaciones que compradores el último mes, y menos de 75%
 -	El segmento premium debería tener al menos un 20% de las recomendaciones totales
@@ -39,8 +40,8 @@ El entregable debe incluir:
 -	Notebook en Python con la resolución
 -	Tabla con los resultados a nivel producto con los nuevos objetivos calculados (csv o Excel)
 -	Un informe para el área de ventas que incluya:
- - Evidencia que con los nuevos objetivos se cumplen las restricciones
- - Análisis de cuáles son los productos que quedan con mayor variación vs los resultados originales del algoritmo
- - Cantidad de recomendaciones por marca
+    - Evidencia que con los nuevos objetivos se cumplen las restricciones
+    - Análisis de cuáles son los productos que quedan con mayor variación vs los resultados originales del algoritmo
+    - Cantidad de recomendaciones por marca
 -	Aclaración: en caso de que algún requerimiento sea ambiguo, tomar una asunción y aclararla en el entregable
 
